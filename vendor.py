@@ -1,6 +1,6 @@
 # Create an instance of the Mama_Mboga class
 
-vendor = Mama_Mboga("Potatoes", 50, 2.99, "Sell")
+vendor = Mama_mboga("Potatoes", 50, 2.99, "Sell")
 print(vendor)
 
 vendor.new_stock("Kales")
